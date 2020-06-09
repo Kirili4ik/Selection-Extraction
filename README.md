@@ -1,5 +1,5 @@
 # Selection-Extraction
-Code for a small research about feature Selection and Extraction for ML models
+Code for a small research about feature Selection and Extraction methods applications for ML models
 
 More info in notion (in Russian):
 
